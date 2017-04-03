@@ -25,3 +25,5 @@ Preventative maintenance for PuppetDB: node-purge-ttl
     - *"Usable in any Puppet setup, based on Puppet OSS, PE, Foreman..."*
     - *"Ready to use profiles for system baselines and common applications"*
     - *"Toolset to create and maintain a new control-repo based on PSICK (WIP)"*
++ Tangentially and loosely related to puppet, from MCollective creator [R.I. Pienaar's blog and mailing list Devco.net](https://www.devco.net/):
+  - *"I wrote about a major new MCollective feature I built called [Federations of Collectives](https://www.devco.net/archives/2017/03/20/choria-network-federation.php) and also [about some internals](https://www.devco.net/archives/2017/03/21/choria-network-protocols-transport.php). I wrote a piece on the NATS.io blog about [how and why I use NATS in Choria](http://nats.io/blog/nats-for-the-marionette-collective/)  (there's a [webinar coming soon April 26](http://nats.io/blog/webinar-how-choria-significantly-improves-operability-of-mcollective-using-nats/)). There's also [a bit on the DZone about Federation](https://dzone.com/articles/choria-network-federation)."*
