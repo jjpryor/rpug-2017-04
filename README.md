@@ -1,4 +1,8 @@
-# 2017-04 Raleigh Puppet User Group notes
+# 2017-04 Raleigh Puppet User Group Meeting notes
+## RPUG News
++  [May meeting on Monday, May 1, 2017 at Red Hat Annex in downtown Raleigh, NC](https://www.meetup.com/Raleigh-Puppet-User-Group/events/238475638/)
++ [June meeting on Monday June 5, 2017 at Arista Networks in Cary, NC](https://www.meetup.com/Raleigh-Puppet-User-Group/events/238475656/)
+
 ## Puppet ecosystem announcements and news bits
 + Puppet Enterprise 2017.1.1 Released, strings 1.1.0 Released, Puppet Agent 1.9.3 available, PuppetDB 4.3.2 available
 + According to Foreman devs, [Foreman 1.15.0 release should occur about the middle of April](https://groups.google.com/forum/?fromgroups#!topic/foreman-dev/tstb5ytnejU).
